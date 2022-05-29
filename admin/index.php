@@ -31,7 +31,7 @@ if (isset($_SESSION['admin-id'])) {
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Uprising Investment</title>
+        <title>Galaxy Digital</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
