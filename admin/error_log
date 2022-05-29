@@ -1,0 +1,155 @@
+[07-Aug-2021 09:26:56 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 54
+[07-Aug-2021 09:26:56 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 00:36:32 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 54
+[08-Aug-2021 00:36:32 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 01:23:46 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 01:23:46 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 56
+[08-Aug-2021 02:08:29 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 54
+[08-Aug-2021 02:08:30 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 02:17:01 UTC] PHP Warning:  Illegal string offset 'email' in /home2/uprising/public_html/admin/approve.php on line 55
+[08-Aug-2021 02:17:01 UTC] PHP Warning:  Illegal string offset 'name' in /home2/uprising/public_html/admin/approve.php on line 56
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:07:42 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:08:20 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:09:13 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:09:57 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:10:11 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:11:37 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:13:44 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: ltc in /home2/uprising/public_html/admin/wallet.php on line 120
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: ltc_type in /home2/uprising/public_html/admin/wallet.php on line 122
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: doge in /home2/uprising/public_html/admin/wallet.php on line 127
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: doge_type in /home2/uprising/public_html/admin/wallet.php on line 129
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: bnb in /home2/uprising/public_html/admin/wallet.php on line 134
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: bnb_type in /home2/uprising/public_html/admin/wallet.php on line 136
+[08-Aug-2021 16:14:02 UTC] PHP Notice:  Undefined index: perfect_money in /home2/uprising/public_html/admin/wallet.php on line 141
+[09-Aug-2021 13:09:27 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:09:45 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:10:06 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:14:01 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:15:15 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:19:15 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:27:03 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[09-Aug-2021 13:27:12 UTC] PHP Notice:  Undefined index: ada_type in /home2/uprising/public_html/admin/wallet.php on line 143
+[15-Sep-2021 14:08:23 UTC] PHP Notice:  Undefined variable: inv in /home/skyraikc/uprisinginvestment.com/admin/inc/functions.inc.php on line 474
+[15-Sep-2021 14:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[15-Sep-2021 14:59:57 UTC] PHP Notice:  Undefined variable: total in /home/skyraikc/uprisinginvestment.com/admin/single.php on line 41
+[15-Sep-2021 14:59:57 UTC] PHP Notice:  Undefined variable: site_url in /home/skyraikc/uprisinginvestment.com/admin/single.php on line 140
+[15-Sep-2021 14:59:57 UTC] PHP Notice:  Undefined variable: site_url in /home/skyraikc/uprisinginvestment.com/admin/single.php on line 140
+[15-Sep-2021 14:59:57 UTC] PHP Notice:  Undefined variable: site_title in /home/skyraikc/uprisinginvestment.com/admin/single.php on line 161
+[17-Sep-2021 14:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[17-Sep-2021 14:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[24-Sep-2021 06:43:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[24-Sep-2021 06:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[24-Sep-2021 07:11:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[24-Sep-2021 07:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[15-Oct-2021 07:42:39 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:42:39 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:42:39 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:48:10 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:48:10 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:48:10 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:52:02 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:52:02 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:52:02 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:54:37 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:54:37 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:54:37 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:55:55 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:55:55 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:55:55 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:56:23 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:56:23 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[15-Oct-2021 07:56:23 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/uprisinginvestment.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[29-Oct-2021 15:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/uprisinginvestment.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/uprisinginvestment.com/admin/team.php on line 103
+[04-Jan-2022 14:57:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/demon.skyrocap.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/demon.skyrocap.com/admin/team.php on line 103
+[04-Jan-2022 14:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/demon.skyrocap.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/demon.skyrocap.com/admin/team.php on line 103
+[05-Jan-2022 10:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/demon.skyrocap.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/demon.skyrocap.com/admin/team.php on line 103
+[05-Jan-2022 10:06:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/demon.skyrocap.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/demon.skyrocap.com/admin/team.php on line 103
+[05-Jan-2022 10:06:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all_team() in /home/skyraikc/demon.skyrocap.com/admin/team.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/skyraikc/demon.skyrocap.com/admin/team.php on line 103
+[11-Jan-2022 15:08:04 UTC] PHP Notice:  Undefined variable: query2 in /home/skyraikc/demon.skyrocap.com/admin/all_profit.php on line 204
+[11-Jan-2022 15:08:04 UTC] PHP Notice:  Undefined variable: query4 in /home/skyraikc/demon.skyrocap.com/admin/all_profit.php on line 204
+[11-Jan-2022 15:08:04 UTC] PHP Notice:  Undefined index: total in /home/skyraikc/demon.skyrocap.com/admin/pkg.php on line 8
+[17-Jan-2022 06:21:47 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/demon.skyrocap.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[17-Jan-2022 06:21:47 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/demon.skyrocap.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
+[17-Jan-2022 06:21:47 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/skyraikc/demon.skyrocap.com/email_file/PHPMailer/src/PHPMailer.php on line 3599
