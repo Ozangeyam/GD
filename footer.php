@@ -24,7 +24,7 @@
                             </li>
                              <li>
                                 <a target="_blank" href="https://www.Bestexchange.com">
-                                    <img src="en/img/bestexchange.png" class="js-img" alt="">
+                                    <!--<img src="en/img/bestexchange.png" class="js-img" alt="">-->
                                 </a>
                             </li>
                         </ul>
