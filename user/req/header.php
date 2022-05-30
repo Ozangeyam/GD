@@ -192,6 +192,12 @@ switch ($user['plan']) {
 
                                 } ?>"><i class="fa fa-users fa-fw"></i> Referral</a>
                             </li>
+                             <li>
+                                <a href="partners" class="<?php if($title === "Partners"){
+                                    echo 'active';
+
+                                } ?>"><i class="fa fa-users fa-fw"></i> Partners</a>
+                            </li>
 
                             <li>
                                 <a href="pkg?sector=<?= $user['plan'] ?>" class="<?php if($title === "Investment"){
