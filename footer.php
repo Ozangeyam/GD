@@ -10,22 +10,16 @@
                             <a href="index"><img src="<?= $site_logo2; ?>" 
                                  class="js-img" alt=""></a>
                         </div>
-                        <span class="footer-opportunity">Invest and Earn on your own Terms. It has never been so simple.</span>
+                        <span class="footer-opportunity">Invest and Earn on your own Terms. It has never been so simple. Just own any Cryptocurrency</span>
                         <ul class="footer-buy">
                             <li>
-                                <a target="_blank" href="https://www.coinbase.com/">
-                                    <img src="en/img/coinbase.svg"  class="js-img" alt="">
-                                </a>
+                                <a target="_blank" href="https://www.coinbase.com/">BUY ON COINBASE</a>
                             </li>
                             <li>
-                                <a target="_blank" href="http://www.binance.com/">
-                                    <img src="en/img/binance.svg"  class="js-img" alt="">
-                                </a>
+                                <a target="_blank" href="http://www.binance.com/">BUY ON BINANCE </a>
                             </li>
                              <li>
-                                <a target="_blank" href="https://www.Bestexchange.com">
-                                    <!--<img src="en/img/bestexchange.png" class="js-img" alt="">-->
-                                </a>
+                                <a target="_blank" href="https://www.Bestexchange.com">BUY ON BESTEXCHANGE</a>
                             </li>
                         </ul>
                         <div class="footer-company">
@@ -96,15 +90,7 @@
 <!--footer section end-->
 
 <!--bottom to top button end-->
-<div class="col-md-12">
-                    <div id="google_translate_element"></div>
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
-}
-</script>
-<script type="text/javascript" src="../translate.google.com/translate_a/elementa0d8"></script>
-                </div>
+
 <!--div style="position: fixed; left: 0; bottom: 0; z-index: 9999; width: 100%;">
                 <div style="width: 100%; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; text-align: right; line-height:14px; font-size: 12px; box-sizing:content-box; font-feature-settings: normal; text-size-adjust: 100%; padding:1px;padding: 0px; margin: 0px;">
                     <div style="height:40px;">
