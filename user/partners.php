@@ -1,5 +1,5 @@
 <?php 
-$title = "Skyro Partner's Plan";
+$title = "Galaxy Digital Partner's Plan";
 
 require 'req/header.php';
 
