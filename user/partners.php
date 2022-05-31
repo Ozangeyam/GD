@@ -11,8 +11,8 @@ require 'req/header.php';
  <!-- /.row -->
                     <div class="row">
 <?php 
-		$plan1 = ["COMMUNITY PLAN", 25, 14, 3000, "No Limit"];
-		$plan2 = ["CLOUD MINING", 50, 14, 1000, "No Limit"];
+		$plan1 = ["COMMUNITY PLAN", 25, 1, 3000, "No Limit"];
+		$plan2 = ["CLOUD MINING", 50, 1, 1000, "No Limit"];
 		$plans = array($plan1, $plan2);
 		
 	
@@ -21,7 +21,7 @@ if (!empty($plans)) {
 	$i = 0;
 	foreach ($plans as $plan) {
 		$i++;
-		$y = $plan[2] / 14;
+		$m = $plan[2] / 1;
 		if ($plan[4] === "No Limit") {
 			$limit = 90000000000;
 		}else{
@@ -41,10 +41,10 @@ if (!empty($plans)) {
 			                        <div class="panel-body">
 			                            <!-- <form role="form" action="" method=""> -->
 			                            	<h4><b>Amount Range : $<?= $plan[3]; ?> - $<?= $plan[4]; ?></b></h4>
-			                            	<h4><b>Duration : <?= $y; ?> Year(s)</b></h4>
+			                            	<h4><b>Duration : <?= $m; ?> Month(s)</b></h4>
 			                            	<h4><b>CIM : <?= $plan[1]; ?>%</b></h4>
 			                            	<h4><b>24/7 Support</b></h4>
-			                            	<!-- <h4><b>Instant Withdrawals</b></h4> -->
+			                            	<h4><b>Instant Withdrawals</b></h4> 
 			                                <fieldset>
 			                                    <div class="form-group">
 			                                        <input style="visibility: hidden;" class="form-control" name="sector" type="text" value="<?= "reirement" ?>">
