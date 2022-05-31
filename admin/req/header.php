@@ -139,13 +139,6 @@ if ($response) {
                             </li>
 
                             <li>
-                                <a href="team" class="<?php if($title === "Team"){
-                                    echo 'active';
-
-                                } ?>"><i class="fa fa-users fa-fw"></i> Team</a>
-                            </li>
-
-                            <li>
                                 <a href="email" class="<?php if($title === "Email Sender"){
                                     echo 'active';
 
@@ -197,9 +190,6 @@ if ($response) {
 
                                 } ?>"><i class="fa fa-dollar fa-fw"></i> Deposits</a>
                                     </li>
-
-                                    
-
                                     <li>
                                         <a href="wdrl" class="<?php if($title === "Withdrawals"){
                                     echo 'active';
@@ -218,9 +208,6 @@ if ($response) {
 
                                 } ?>"><i class="fa fa-money fa-fw"></i> Confirm Transfers</a>
                                     </li>
-
-                                    
-
                                     <li>
                                         <a href="hst" class="<?php if($title === "Transaction History"){
                                     echo 'active';
