@@ -127,6 +127,9 @@ switch ($user['plan']) {
                         <ul class="dropdown-menu dropdown-user">
                             <li><a href="profile"><i class="fa fa-user fa-fw"></i> User Profile</a>
                             </li>
+                             <li class="divider"></li>
+                            <li><a href="recover"><i class="fa fa-info fa-fw"></i> Recover</a>
+                            </li>
                             
                             <li class="divider"></li>
                             <li><a href="logout"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
@@ -198,6 +201,18 @@ switch ($user['plan']) {
 
                                 } ?>"><i class="fa fa-users fa-fw"></i> Partners</a>
                             </li>
+                            <li>
+                                <a href="pkg" class="<?php if($title === "Packages"){
+                                    echo 'active';
+
+                                } ?>"><i class="fa fa-sitemap fa-fw"></i> Packages</a>
+                            </li>
+                            <li>
+                                <a href="profits" class="<?php if($title === "Profits"){
+                                    echo 'active';
+
+                                } ?>"><i class="fa fa-money fa-fw"></i> Profits</a>
+                            </li>
 
                             <li>
                                 <a href="pkg?sector=<?= $user['plan'] ?>" class="<?php if($title === "Investment"){
@@ -232,6 +247,12 @@ switch ($user['plan']) {
 
                                 } ?>"><i class="fa fa-money fa-fw"></i> Withdrawals</a>
                                     </li>
+                                    <li>
+                                <a href="wdrl_hlpr" class="<?php if($title === "Withdrawal Confirmations"){
+                                    echo 'active';
+
+                                } ?>"><i class="fa fa-money fa-fw"></i>Withdrawal Confirmations</a>
+                                   </li>
 
                                     <li>
                                         <a href="ovd" class="<?php if($title === "Overdraft"){
