@@ -47,19 +47,6 @@ if (isset($_SESSION['id'])){
     </head>
     <body>
 
-        <div class="container">
-            <div class="row">
-            <div id="google_translate_element"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-                <div class="col-md-4 col-md-offset-4">
-
                     <?php 
                     if (isset($_POST['sign-up'])) {
                         $register = register_user($_POST);
