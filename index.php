@@ -718,7 +718,7 @@ require 'site_name.php';
 								<img src="en/img/news-1.jpg" 
 								class="js-img" alt="">
 							</a>
-							<a href="#" class="news-item__title"><?= $site_title; ?> Grand Launch.</a>
+							<a href="#" class="news-item__title"><?= $site_title; ?> With Advanced Tools/Easy Interface</a>
 							<span class="news-item__date">May 07, 2022</span>
 						</div>
 						<div class="news-item">
@@ -726,7 +726,7 @@ require 'site_name.php';
 								<img src="en/img/news-2.jpg" 
 								class="js-img" alt="">
 							</a>
-							<a href="#" class="news-item__title">Crypto to the moon.</a>
+							<a href="#" class="news-item__title">"BUY" Galaxy Digital stock.</a>
 							<span class="news-item__date">May 07, 2022</span>
 						</div>
 						<div class="news-item">
