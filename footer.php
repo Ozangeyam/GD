@@ -10,16 +10,16 @@
                             <a href="index"><img src="<?= $site_logo2; ?>" 
                                  class="js-img" alt=""></a>
                         </div>
-                        <span class="footer-opportunity">Invest and Earn on your own Terms. It has never been so simple. Just own any Cryptocurrency</span>
+                        <span class="footer-opportunity">Invest and Earn on your own Terms. It has never been so simple. Just own any Cryptocurrency.<br>Click Links below to Purchase</span>
                         <ul class="footer-buy">
                             <li>
-                                <a target="_blank" href="https://www.coinbase.com/">BUY ON COINBASE</a>
+                                <a target="_blank" href="https://www.coinbase.com/">COINBASE</a>
                             </li>
                             <li>
-                                <a target="_blank" href="http://www.binance.com/">BUY ON BINANCE </a>
+                                <a target="_blank" href="http://www.binance.com/">BINANCE </a>
                             </li>
                              <li>
-                                <a target="_blank" href="https://www.Bestexchange.com">BUY ON BESTEXCHANGE</a>
+                                <a target="_blank" href="https://www.Bestexchange.com">BESTEXCHANGE(Russia)</a>
                             </li>
                         </ul>
                         <div class="footer-company">
@@ -190,7 +190,7 @@ $('document').ready(function () {
             .css({
                 'color': '#544F4B',
                 'font-family': 'Roboto',
-								'width':'100%'
+		'width':'100%'
             });
         // Change menu's padding
         $("iframe").contents().find('.goog-te-menu2-item-selected').css ('display', 'none');
