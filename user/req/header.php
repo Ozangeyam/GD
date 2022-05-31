@@ -201,12 +201,7 @@ switch ($user['plan']) {
 
                                 } ?>"><i class="fa fa-users fa-fw"></i> Partners</a>
                             </li>
-                            <li>
-                                <a href="pkg" class="<?php if($title === "Packages"){
-                                    echo 'active';
-
-                                } ?>"><i class="fa fa-sitemap fa-fw"></i> Packages</a>
-                            </li>
+                          
                             <li>
                                 <a href="profits" class="<?php if($title === "Profits"){
                                     echo 'active';
@@ -255,13 +250,6 @@ switch ($user['plan']) {
                                    </li>
 
                                     <li>
-                                        <a href="ovd" class="<?php if($title === "Overdraft"){
-                                    echo 'active';
-
-                                } ?>"><i class="fa fa-battery-1 fa-fw"></i> Overdraft(<i style="color: red;">Coming Soon</i>)</a>
-                                    </li>
-
-                                    <li>
                                         <a href="hst" class="<?php if($title === "Transaction History"){
                                     echo 'active';
 
@@ -289,6 +277,12 @@ switch ($user['plan']) {
 
                                 } ?>"><i class="fa fa-edit fa-fw"></i> Payment Details</a>
                                     </li>
+                                      <li>
+                                <a href="pkg" class="<?php if($title === "Packages"){
+                                    echo 'active';
+
+                                } ?>"><i class="fa fa-sitemap fa-fw"></i> Packages</a>
+                                   </li>
                                     <li>
                                         <a href="profile" class="<?php if($title === "Profile"){
                                     echo 'active';
