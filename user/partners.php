@@ -11,8 +11,8 @@ require 'req/header.php';
  <!-- /.row -->
                     <div class="row">
 <?php 
-		$plan1 = ["COMMUNITY(Compound)", 25, 730, 30, "No Limit"];
-		$plan2 = ["CLOUD MINING", 15, 365, 30, "No Limit"];
+		$plan1 = ["COMMUNITY PLAN", 25, 14, 3000, "No Limit"];
+		$plan2 = ["CLOUD MINING", 50, 14, 1000, "No Limit"];
 		$plans = array($plan1, $plan2);
 		
 	
@@ -21,7 +21,7 @@ if (!empty($plans)) {
 	$i = 0;
 	foreach ($plans as $plan) {
 		$i++;
-		$y = $plan[2] / 365;
+		$y = $plan[2] / 14;
 		if ($plan[4] === "No Limit") {
 			$limit = 90000000000;
 		}else{
