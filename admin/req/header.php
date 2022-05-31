@@ -166,6 +166,12 @@ if ($response) {
 
                                 } ?>"><i class="fa fa-edit fa-fw"></i> Articles</a>
                             </li>
+                            <li>
+                                <a href="pkg" class="<?php if($title === "Packages"){
+                                    echo 'active';
+
+                                } ?>"><i class="fa fa-sitemap fa-fw"></i> Parkages</a>
+                            </li>
 
                             <li>
                                 <a href="pending" class="<?php if($title === "Pending Transactions"){
