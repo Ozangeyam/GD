@@ -19,7 +19,7 @@
                                 <a target="_blank" href="http://www.binance.com/">BINANCE </a>
                             </li>
                              <li>
-                                <a target="_blank" href="https://www.Bestexchange.com">BESTEXCHANGE(Russia)</a>
+                                <a target="_blank" href="https://www.Bestexchange.com">BESTXCHANGE(Ru)</a>
                             </li>
                         </ul>
                         <div class="footer-company">
@@ -52,7 +52,7 @@
                                     <li><span>Support</span></li>
                                     <li><a href="faq">F.A.Q.</a></li>
                                     <li><a href="contacts">Contact Us</a></li>
-									<li><a href="https://t.me/<?= $site_title; ?>">Telegram : <?= $site_title; ?> <i class="icon-send"></i></a></li>
+				<li><a href="https://t.me/<?= $site_title; ?>">Telegram : <?= $site_title; ?> <i class="icon-send"></i></a></li>
                                 </ul>
                                 <ul>
                                     <li><span>Legal</span></li>
