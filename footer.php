@@ -101,18 +101,8 @@
                 </div-->
 
 
-<!--Start of Tawk.to Script-->
-<!-- <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/60f493e4d6e7610a49abdf98/1fatm3e2l';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script> -->
+<!--StartofTawk.toScript-->
+<scripttype="text/javascript"> var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date(); (function(){ var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0]; s1.async=true; s1.src='https://embed.tawk.to/629cb8807b967b117992fbb7/default'; s1.charset='UTF-8'; s1.setAttribute('crossorigin','*'); s0.parentNode.insertBefore(s1,s0); })(); </script> 
 <!--End of Tawk.to Script-->
 
 
@@ -129,7 +119,7 @@ s0.parentNode.insertBefore(s1,s0);
 </div>
 
 <div class="icon-load"></div>
-    <script src="<?= $tidio_link; ?>" async></script>
+    <!--script src="<?= $tidio_link; ?>" async></script-->
 	<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="en/js/jquery-3.5.1.min.js"></script>
 	<script src="en/js/components/ion.rangeSlider.min.js"></script>
 	<script src="en/js/components/jquery.fancybox.js"></script>
