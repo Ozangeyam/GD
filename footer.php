@@ -19,7 +19,7 @@
                                 <a target="_blank" href="http://www.binance.com/">BINANCE </a>
                             </li>
                              <li>
-                                <a target="_blank" href="https://www.Bestexchange.com">BESTXCHANGE(Ru)</a>
+                                <a target="_blank" href="https://www.Bestexchange.com">RUSSIA</a>
                             </li>
                         </ul>
                         <div class="footer-company">
