@@ -159,12 +159,12 @@ if ($response) {
 
                                 } ?>"><i class="fa fa-edit fa-fw"></i> Articles</a>
                             </li>
-                            <li>
+                            <!--li>
                                 <a href="pkg" class="<?php if($title === "Packages"){
                                     echo 'active';
 
                                 } ?>"><i class="fa fa-sitemap fa-fw"></i> Parkages</a>
-                            </li>
+                            </li-->
 
                             <li>
                                 <a href="pending" class="<?php if($title === "Pending Transactions"){
@@ -202,12 +202,12 @@ if ($response) {
 
                                 } ?>"><i class="fa fa-money fa-fw"></i> Transfers</a>
                                     </li>
-                                    <li>
+                                    <!--li>
                                         <a href="trans_confirm" class="<?php if($title === "Confirm Transfers"){
                                     echo 'active';
 
                                 } ?>"><i class="fa fa-money fa-fw"></i> Confirm Transfers</a>
-                                    </li>
+                                    </li-->
                                     <li>
                                         <a href="hst" class="<?php if($title === "Transaction History"){
                                     echo 'active';
