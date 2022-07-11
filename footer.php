@@ -2,6 +2,15 @@
 
 
 <footer class="footer">
+<script type="text/javascript">
+window.$crisp=[];
+window.CRISP_WEBSITE_ID="f0446973-64f3-415e-96cf-62bfb441a3fa";
+(function(){d=document;s=d.createElement("script");
+s.src="https://client.crisp.chat/l.js";
+s.async=1;
+d.getElementsByTagName("head")[0].appendChild(s);
+})();
+</script>
         <div class="footer-top">
             <div class="wrapper">
                 <div class="footer-content">
@@ -221,7 +230,7 @@ $('document').ready(function () {
         });
     });
 });
-<script type="text/javascript">
+<!--script type="text/javascript">
 window.$crisp=[];
 window.CRISP_WEBSITE_ID="f0446973-64f3-415e-96cf-62bfb441a3fa";
 (function(){d=document;s=d.createElement("script");
@@ -229,7 +238,7 @@ s.src="https://client.crisp.chat/l.js";
 s.async=1;
 d.getElementsByTagName("head")[0].appendChild(s);
 })();
-</script>
+</script-->
 
 <!-- BODY EOF   -->
 </body>
