@@ -221,7 +221,6 @@ $('document').ready(function () {
         });
     });
 });
-</script>
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -234,7 +233,8 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
-<!--End of Tawk.to Script--><!-- BODY EOF   -->
+<!--End of Tawk.to Script-->
+<!-- BODY EOF   -->
 </body>
 
 <!-- Mirrored from coynex.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Jun 2021 18:59:04 GMT -->
