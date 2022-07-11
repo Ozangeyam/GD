@@ -221,18 +221,13 @@ $('document').ready(function () {
         });
     });
 });
-<!--Start of Tawk.to Script-->
 <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/62cbd611b0d10b6f3e7bb8f9/1g7m3odhf';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
+window.$crisp=[];window.CRISP_WEBSITE_ID="f0446973-64f3-415e-96cf-62bfb441a3fa";
+(function(){d=document;s=d.createElement("script");
+s.src="https://client.crisp.chat/l.js";
+s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();
 </script>
+
 <!--End of Tawk.to Script-->
 
 <!-- BODY EOF   -->
