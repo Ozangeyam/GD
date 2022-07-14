@@ -20,15 +20,15 @@ d.getElementsByTagName("head")[0].appendChild(s);
 </script>
 <script  type="text/javascript">
   var config = {
-    phone :" https://wa.me/message/SSY2FRLXWQHMF1",
+    phone :" 1 (469) 546-96-81",
     call :"Need Help?",
     position :"ww-right",
     size : "ww-normal",
     text : "",
     type: "ww-standard",
-    brand: "Galaxy Digital",
+    brand: "Galaxy Digital Holdings",
     subtitle: "",
-    welcome: "Welcome to GALAXY DIGITAL HOLDINGS. How can we help?"
+    welcome: "Hi there,How can we help?"
   };
   var proto = document.location.protocol, host = "cloudfront.net", url = proto + "//d3kzab8jj16n2f." + host;
     var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/v2/main.js";
