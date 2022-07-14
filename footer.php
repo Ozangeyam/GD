@@ -13,7 +13,7 @@ d.getElementsByTagName("head")[0].appendChild(s);
 </script>
 <script  type="text/javascript">
   var config = {
-    phone :" 1(469)546-96-81",
+    phone :" 1(469)5469681",
     call :"Need Help?",
     position :"ww-right",
     size : "ww-normal",
