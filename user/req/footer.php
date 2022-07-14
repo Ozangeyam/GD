@@ -35,7 +35,7 @@ d.getElementsByTagName("head")[0].appendChild(s);
 
     s.onload = function () { tmWidgetInit(config) };
     var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);
-</script>
+</script>0
 
 <!-- BODY EOF   -->
 
