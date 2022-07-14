@@ -20,7 +20,7 @@ d.getElementsByTagName("head")[0].appendChild(s);
 </script>
 <script  type="text/javascript">
   var config = {
-    phone :" 1(469) 546-96-81",
+    phone :" https://wa.me/message/SSY2FRLXWQHMF1",
     call :"Need Help?",
     position :"ww-right",
     size : "ww-normal",
