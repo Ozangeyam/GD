@@ -20,6 +20,7 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
+<script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 <!--End of Tawk.to Script--><!-- BODY EOF   -->
 
         <!-- Bootstrap Core JavaScript -->
