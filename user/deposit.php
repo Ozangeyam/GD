@@ -71,6 +71,8 @@ require 'req/header.php';
                                         
                                     </script>
 
+<script src="https://www.w3counter.com/tracker.js?id=145497"></script>
+
                                     <!-- Modal -->
                                     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                                         <div class="modal-dialog" role="document">
@@ -127,6 +129,7 @@ require 'req/header.php';
 
                     
                 </script>
+
                                                             <br>
                                                             <input class="form-control hide" type="text" value="" id="myInput" required>
                                                             <strong id="type"></strong>
