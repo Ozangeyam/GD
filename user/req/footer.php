@@ -8,6 +8,7 @@
 
 </div>
         <!-- /#wrapper -->
+<script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 <script type="text/javascript">
 window.$crisp=[];
 window.CRISP_WEBSITE_ID="f0446973-64f3-415e-96cf-62bfb441a3fa";
