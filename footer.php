@@ -11,6 +11,9 @@ s.async=1;
 d.getElementsByTagName("head")[0].appendChild(s);
 })();
 </script>
+
+<script src="https://www.w3counter.com/tracker.js?id=145497"></script>
+
         <div class="footer-top">
             <div class="wrapper">
                 <div class="footer-content">
