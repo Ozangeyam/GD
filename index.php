@@ -301,6 +301,7 @@ require 'site_name.php';
                             </script>
 
                             <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                             <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
                         </div>
 
                     </div>
