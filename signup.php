@@ -294,6 +294,7 @@ p {
 	<!-- BEGIN BODY -->
 
 	<div class="main-wrapper">
+        <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 
 		<!-- BEGIN CONTENT -->
 
