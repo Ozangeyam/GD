@@ -52,5 +52,6 @@ d.getElementsByTagName("head")[0].appendChild(s);
 
         <!-- Custom Theme JavaScript -->
         <script src="js/startmin.js"></script>
+        <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
     </body>
 </html>
