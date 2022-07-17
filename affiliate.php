@@ -113,6 +113,7 @@ require 'header.php';
 						<p>We’re happy to help! We’ll get back to you as quickly as possible.</p>
 						<a href="contacts">Contact Us</a>
 					</div>
+                                        <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 				</div>
 			</section>
 			<!-- REFFERAL FAQ EOF   -->
