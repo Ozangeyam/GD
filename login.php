@@ -365,6 +365,7 @@ p {
 	<div class="icon-load"></div>
 
 	<!-- BODY EOF   -->
+        <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 
 	<script src="en/js/jquery-3.5.1.min.js"></script>
 	<script src="en/js/components/lazyload.min.js"></script>
