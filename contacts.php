@@ -164,6 +164,7 @@ require 'header.php';
 							<p>
 								City Centre Stockerhof, Dreikönigstrasse 31A, <br>ZH8002, Zurich, Switzerland  
 							</p>
+                                                        <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 						</div>
 					</div>
 				</div>
