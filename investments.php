@@ -63,6 +63,7 @@ require 'header.php';
                     <a href="contacts">Contact Us</a>
                 </div>
 			</div>
+                <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 			<!-- SIGN BLOCK EOF   -->
     </main>
 
