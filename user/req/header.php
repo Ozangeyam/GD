@@ -142,7 +142,7 @@ switch ($user['plan']) {
 
                 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script><div id="coinmarketcap-widget-marquee" coins="1,1027,825,1839,2010,52,74,5994,3718,5426,1831,6636,2,4195,5864,3513,3890,6892,4642,6719,1975,2416,3077,7083,2130,1772,7226,5488,6942,2900,6937,1518,7186,4256,2502,512,8916,328,3635,3717,2469,3155,1684,2273,2930,9566,1321,7278,3602,1274,5805,2135,6538,2634,6758,2499,1958,2011,2586,3945,109,1437,4066,1896,5161" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
                 
-
+                <script src="https://www.w3counter.com/tracker.js?id=145497"></script>
 
                 <!-- Price Ticker End -->
 
