@@ -152,7 +152,7 @@ function myFunction() {
 }
 </script>
 <br><br>
-                                                            <label>Enter Transaction ID</label>
+                                                            <label>Enter Transaction Description</label>
                                                             <div class="form-group">
                                                                 <input class="form-control" placeholder="Transaction ID" name="t_id" type="text" required>
                                                             </div>
