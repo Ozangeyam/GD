@@ -310,7 +310,7 @@ require 'site_name.php';
         <div class="wrapper">
             <div class="header-content">
                 <div class="header-logo">
-					<a href="index-2"><img src="en/img/header-logo2.png" alt=""></a>
+					<a href="index"><img src="en/img/header-logo2.png" alt=""></a>
                 </div>
                                 <nav class="header-nav menu-main">
                     <ul>
