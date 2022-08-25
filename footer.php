@@ -56,9 +56,11 @@ d.getElementsByTagName("head")[0].appendChild(s);
                             <span>Registered Company</span>
                             <p>
                                 <?= $site_title; ?> LTD<br>
-                                Registration number is R105589.
+                                Reg Number is R105589.
                             </p>
-                            <a target="_blank" href="<?= $cert ?>">Company Certificate <i class="icon-copy"></i></a>
+                            <a target="_blank" href="<?= $cert ?>">Company Certificate <i class="icon-copy"></i></a><br>
+			    <a target="_blank" href="https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-106.061.288&lang=en">Verify with 
+		            <br><span>SWISS WORLD BANK</span><i class="icon-copy"></i></a>
                         </div>
                     </div>
                     <div class="footer-col">
