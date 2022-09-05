@@ -651,7 +651,7 @@ require 'site_name.php';
 								</div>
 							</div>
 							<p>I have only been a member for a few days and already have earned a decent amount of money. Finally a real and honest company that does what is says. Thank you so much for this great opportunity.</p>
-							<span class="customers-item__date">April 11, 2022</span>
+							<span class="customers-item__date">August 11, 2022</span>
 						</div>
 						<div class="customers-item">
 							<div class="customers-item__author">
@@ -666,7 +666,7 @@ require 'site_name.php';
 								</div>
 							</div>
                                                     <p>I just wanted to pass on a big thank you to the whole team at <?= $site_title; ?>. We feel as though they truly care about our financial future. A thoroughbred company with a first class package. Thank you and wish you all the best.</p>
-							<span class="customers-item__date">May 02, 2022</span>
+							<span class="customers-item__date">July 08, 2022</span>
 						</div>
 						<div class="customers-item">
 							<div class="customers-item__author">
@@ -681,7 +681,7 @@ require 'site_name.php';
 								</div>
 							</div>
 							<p>A very strong program. Honest, professional, and very punctual with payments. They regularly provide updates and have always been available to answer any questions. Very happy with how things are going!</p>
-							<span class="customers-item__date">September 31, 2021</span>
+							<span class="customers-item__date">June 31, 2022</span>
 						</div>
 					</div>
 				</div>
@@ -724,7 +724,7 @@ require 'site_name.php';
 								class="js-img" alt="">
 							</a>
 							<a href="#" class="news-item__title"><?= $site_title; ?> With Advanced Tools/Easy Interface</a>
-							<span class="news-item__date">May 07, 2022</span>
+							<span class="news-item__date">September 09, 2022</span>
 						</div>
 						<div class="news-item">
 							<a href="#" class="news-item__img">
@@ -732,7 +732,7 @@ require 'site_name.php';
 								class="js-img" alt="">
 							</a>
 							<a href="#" class="news-item__title">"BUY" Galaxy Digital stock.</a>
-							<span class="news-item__date">May 07, 2022</span>
+							<span class="news-item__date">August 22, 2022</span>
 						</div>
 						<div class="news-item">
 							<a href="#" class="news-item__img">
@@ -740,7 +740,7 @@ require 'site_name.php';
 								class="js-img" alt="">
 							</a>
 							<a href="#" class="news-item__title">Enhanced DDoS protection.</a>
-							<span class="news-item__date">May 08, 2022</span>
+							<span class="news-item__date">August 08, 2022</span>
 						</div>
 					</div>
 				</div>
