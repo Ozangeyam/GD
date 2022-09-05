@@ -15,18 +15,18 @@ try {
     //Server settings
     //$mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'galaxydigital.trade';  // Specify main and backup SMTP servers
+    $mail->Host = 'galaxydigitals.trade';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'support@galaxydigital.trade';                 // SMTP username
-    $mail->Password = 'GLLBc9R~xkOr';                           // SMTP password
+    $mail->Username = 'support@galaxydigitals.trade';                 // SMTP username
+    $mail->Password = 'Patrick9669';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                   // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('support@galaxydigital.trade', 'Galaxy Digital Holdings Support');
+    $mail->setFrom('support@galaxydigitals.trade', 'Galaxy Digital Holdings Support');
     $mail->addAddress($to, $name);     // Add a recipient
     //$mail->addAddress('ellen@example.com');               // Name is optional
-    $mail->addReplyTo('support@galaxydigital.trade', 'No Reply');
+    $mail->addReplyTo('support@galaxydigitals.trade', 'No Reply');
     //$mail->addCC('cc@example.com'); 
     //$mail->addBCC('email@domain.com', '');
 
